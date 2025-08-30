@@ -1,5 +1,5 @@
 
-105-Toro
+Toro (105)
  10500  Mặc định
  10501  Đặc cảnh NYPD
  10502  Trung phong cắm
@@ -9,7 +9,7 @@
  10506  Tử Lôi Thần Ngưu
  10507  Hiểm họa hỗn mang
 
-106-Krixi
+Krixi (106)
  10600  Mặc định
  10601  Công chúa bướm
  10602  Xứ sở thần tiên
@@ -27,7 +27,7 @@
  10620  Phù thủy thời không
  10621  Uyên Ương mộng điệp
 
-107-Zephys
+Zephys (107)
  10700  Mặc định
  10701  Oán linh
  10703  Hiệp sĩ bí ngô
@@ -41,7 +41,7 @@
  10712  Nghệ nhân đồ chơi
  10714  Kỷ Nguyên Hổ Phách
 
-108-Gildur
+Gildur (108)
  10800  Mặc định
  10801  Tiệc bãi biển
  10802  Phượt thủ
@@ -52,7 +52,7 @@
  10807  Phù thủy Ba Tư
  10809  Xích Long
 
-109-Veera
+Veera (109)
  10900  Mặc định
  10901  Cô giáo hắc ám
  10902  Góa phụ giả kim
@@ -69,7 +69,7 @@
  10914  Phù thủy Hội họa
  10915  Thất Sát - Thượng Sinh
 
-110-Kahlii
+Kahlii (110)
  11000  Mặc định
  11001  Cô dâu hắc ám
  11003  Quàng khăn đỏ
@@ -81,7 +81,7 @@
  11009  Rối nước Thủy đình
  11010  Linh Hoa thần nữ
 
-111-Violet
+Violet (111)
  11100  Mặc định
  11101  Nữ hoàng pháo hoa
  11102  Nữ đặc cảnh
@@ -104,7 +104,7 @@
  11120  Nobara Kugisaki
  11121  Nữ quản thú
 
-112-Yorn
+Yorn (112)
  11200  Mặc định
  11201  Cung thủ bóng đêm
  11202  Thế tử nguyệt tộc
@@ -119,16 +119,15 @@
  11212  Vệ Binh ngân hà
  11213  Giao long
  11214  Ký giả diệu kỳ
- 11215  Conan
 
-113-Chaugnar
+Chaugnar (113)
  11300  Mặc định
  11301  Ác mộng sinh hóa
  11302  Quang vinh
  11303  Quang vinh
  11304  Quân cảnh
 
-114-Omega
+Omega (114)
  11400  Mặc định
  11401  Hộ vệ ba bích
  11402  Người máy xanh
@@ -137,7 +136,7 @@
  11405  Hộ vệ Carano
  11406  Sứ Thanh Hoa
 
-115-Jinna
+Jinna (115)
  11500  Mặc định
  11501  Đại tư tế
  11502  Dạ xoa vương
@@ -146,7 +145,7 @@
  11506  Kim giác
  11507  Ma thuật sĩ
 
-116-Butterfly
+Butterfly (116)
  11600  Mặc định
  11601  Xuân nữ ngổ ngáo
  11602  Thủy thủ
@@ -155,7 +154,7 @@
  11605  Quận chúa đế chế
  11606  Đông êm đềm
  11607  Phượng cửu thiên
- 11608  Cẩm y vệ Chu tước
+ 11608  Cẩm y vệ: Chu tước
  11610  Asuna Tia Chớp
  11611  Stacia
  11613  Gánh anh đến cùng
@@ -171,7 +170,7 @@
  11637  Nữ quái nổi loạn
  11638  Nữ quái nổi loạn
 
-117-Ormarr
+Ormarr (117)
  11700  Mặc định
  11701  Cựu chiến binh
  11703  Thông thỏa thích
@@ -179,7 +178,7 @@
  11705  Ông chủ KFC
  11706  CĐV Cuồng nhiệt
 
-118-Alice
+Alice (118)
  11800  Mặc định
  11801  Nhà chiêm tinh
  11802  Phi hành gia
@@ -196,7 +195,7 @@
  11816  Xứ sở diệu kỳ
  11817  Ốc quế tinh nghịch
 
-119-Mganga
+Mganga (119)
  11900  Mặc định
  11901  Hề cung đình
  11902  Tiệc bánh kẹo
@@ -207,7 +206,7 @@
  11907  Đèn Thần Hậu Đậu
  11908  Doombot hủy diệt
 
-120-Mina
+Mina (120)
  12000  Mặc định
  12001  Tiểu thư đoạt hồn
  12002  Chị đại lắm chiêu
@@ -219,7 +218,7 @@
  12008  Linh xà Yêu vũ
  12011  Xích Huyết Diễm Quỷ
 
-121-Marja
+Marja (121)
  12100  Mặc định
  12101  Lam Hải yêu hậu
  12102  Linh xà tư tế
@@ -228,7 +227,7 @@
  12105  Chủ hôn
  12106  Phù Quang Mạc Ảnh
 
-123-Maloch
+Maloch (123)
  12300  Mặc định
  12301  Ác ma địa ngục
  12302  Tiệc hóa trang
@@ -241,7 +240,7 @@
  12309  Quỷ nhãn ma thể
  12310  Đao phủ Dạ Ưng
 
-124-Ignis
+Ignis (124)
  12400  Mặc định
  12401  Hỏa thuật sư
  12402  Quang vinh
@@ -250,7 +249,7 @@
  12405  Thần mặt trời
  12406  Nguyệt lão
 
-126-Arduin
+Arduin (126)
  12600  Mặc định
  12601  Cận vệ hoàng gia
  12602  Quang vinh
@@ -262,7 +261,7 @@
  12608  Ngạo Hổ Hàn Đao
  12609  Nhà vô địch
 
-127-AzzenKa
+AzzenKa (127)
  12700  Mặc định
  12701  Hoàng tử cát
  12702  Linh hồn lữ khách
@@ -271,7 +270,7 @@
  12705  Quang vinh 2.0
  12706  Giáng sinh "An lành"
 
-128-Lữ Bố
+Lữ Bố (128)
  12800  Mặc định
  12801  Tiệc bãi biển
  12802  Nam vương
@@ -285,7 +284,7 @@
  12810  Vũ điệu samba
  12812  Cửu Thiên Lôi Thần
 
-129-Triệu Vân
+Triệu Vân (129)
  12900  Mặc định
  12901  Tiến sĩ thiên tài
  12902  Đoạt mệnh thương
@@ -294,12 +293,12 @@
  12905  Quang vinh
  12906  Chiến tướng mùa đông
  12907  Kỵ sĩ tận thế
- 12908  Cẩm y vệ Hỏa long
+ 12908  Cẩm y vệ: Hỏa long
  12910  Thần tài
  12912  Minh Chung Long Đế
  12913  Chiến Phủ Phần Nguyên
 
-130-Airi
+Airi (130)
  13000  Mặc định
  13001  Thích khách
  13002  Ninja xanh lá
@@ -318,7 +317,7 @@
  13017  Ninja ẩm thực
  13018  Búp bê Mộng mị
 
-131-Murad
+Murad (131)
  13100  Mặc định
  13101  Thợ săn tiền thưởng
  13102  M-TP Thần tượng học đường
@@ -339,7 +338,7 @@
  13117  Chiến binh đồ chơi
  13118  Thiên Luân Kiếm Thánh
 
-132-Hayate
+Hayate (132)
  13200  Mặc định
  13201  Bạch ảnh
  13202  Chiến binh trăng khuyết
@@ -353,9 +352,8 @@
  13210  Tu Di thánh đế
  13211  Mãnh hổ kim cang
  13212  Thống soái Dạ Ưng
- 13213 Kid
 
-133-Valhein
+Valhein (133)
  13300  Mặc định
  13301  Hoàng tử quạ
  13302  Vũ khí tối thượng
@@ -372,7 +370,7 @@
  13314  Thứ nguyên vệ thần
  13315  AW5
 
-134-Skud
+Skud (134)
  13400  Mặc định
  13402  Sơn tặc
  13403  Quang vinh
@@ -381,7 +379,7 @@
  13408  Cứu hộ
  13409  VĐV trượt ván
 
-135-Thane
+Thane (135)
  13500  Mặc định
  13501  Kẻ hủy diệt
  13502  Hiệp sĩ hoàng kim
@@ -390,7 +388,7 @@
  13505  Bác ong bay vừa
  13506  Khoảnh khắc vinh quang
 
-136-Ilumia
+Ilumia (136)
  13600  Mặc định
  13601  Nữ chúa tuyết
  13602  Thần mặt trời
@@ -406,7 +404,7 @@
  13612  Nộ hải Thiên ngư
  13613  Lưỡng Nghi Long Hậu
 
-137-Paine
+Paine (137)
  13700  Mặc định
  13701  Khúc nhạc tử vong
  13702  Phi vụ thế kỷ
@@ -415,19 +413,19 @@
  13705  Tử xà bá tước
  13706  Megumi Fushiguro
 
-139-KilGroth
+KilGroth (139)
  13900  Mặc định
  13901  Cảnh vệ biển
  13902  Quang vinh
  13903  Chú lính chì
  13904  Càn Nguyên thủ vệ
 
-140-Superman
+Superman (140)
  14000  Mặc định
  14001  Chúa tể công lý
  14002  Bất công lý
 
-141-Lauriel
+Lauriel (141)
  14100  Mặc định
  14101  Đọa lạc thiên sứ
  14102  Hỏa phượng hoàng
@@ -447,7 +445,7 @@
  14117  Vũ khúc miêu ảnh
  14118  Thiên nữ Dạ Ưng
 
-142-Natalya
+Natalya (142)
  14200  Mặc định
  14201  Mị muốn đi chơi
  14202  Nghệ nhân lân
@@ -462,7 +460,7 @@
  14212  Biệt đội băng lam
  14213  Nguyệt Ảnh Kiếm Tiên
 
-144-Taara
+Taara (144)
  14400  Mặc định
  14401  Đại tù trưởng
  14402  Lam Hải chiến nữ
@@ -474,7 +472,7 @@
  14410  Hoa hồng đỏ tươi
  14411  Thần chiến tranh
 
-146-Zill
+Zill (146)
  14600  Mặc định
  14601  Lốc địa ngục
  14602  Dung nham
@@ -486,7 +484,7 @@
  14611  Con quay gió
  14664  Mặc định
 
-148-Preyta
+Preyta (148)
  14800  Mặc định
  14801  Không tặc
  14802  Băng hỏa long sư
@@ -494,7 +492,7 @@
  14804  Ma độc huyết long
  14805  Bù nhìn xứ Athanor
 
-149-Xeniel
+Xeniel (149)
  14900  Mặc định
  14901  Thiên sứ hủy diệt
  14902  Trung vệ thép
@@ -506,7 +504,7 @@
  14909  Hóa thân Tengu
  14910  Tay trống ngang tàng
 
-150-Nakroth
+Nakroth (150)
  15000  Mặc định
  15001  Chiến binh hỏa ngục
  15002  Quân đoàn địa ngục
@@ -527,7 +525,7 @@
  15036  Siêu việt
  15037  Siêu việt
 
-152-Điêu Thuyền
+Điêu Thuyền (152)
  15200  Mặc định
  15201  Nữ vương anh đào
  15202  Tiệc bãi biển
@@ -545,7 +543,7 @@
  15216  Tuế Hàn Đỗ Quyên
  15264  Mặc định
 
-153-Kaine
+Kaine (153)
  15300  Mặc định
  15301  Đôi cánh đại dương
  15302  Dơi địa ngục
@@ -555,7 +553,7 @@
  15306  Thợ săn chính nghĩa
  15364  Mặc định
 
-154-Yena
+Yena (154)
  15400  Mặc định
  15401  Khuyên bạc
  15402  Thỏ may mắn
@@ -571,7 +569,7 @@
  15413  Trấn Yêu Thần Lộc
  15414  Thần Sứ kiều diễm
 
-156-Aleister
+Aleister (156)
  15600  Mặc định
  15601  Thiếu niên hắc ám
  15602  Quang vinh
@@ -586,7 +584,7 @@
  15611  HLV bất bại
  15612  Ác nhân đồ chơi
 
-157-Raz
+Raz (157)
  15700  Mặc định
  15702  Đại tù trưởng
  15703  Băng quyền quán quân
@@ -600,13 +598,13 @@
  15711  Gon
  15712  Lễ hội té nước
 
-159-EX
+EX (159)
  15900  Mặc định
  15901  Hoa tiêu đại dương
  15902  Môn đồ tập sự
  15903  15903
 
-162-Kriknak
+Kriknak (162)
  16200  Mặc định
  16201  Bọ cánh bạc
  16202  Yêu trùng cổ mộ
@@ -614,7 +612,7 @@
  16204  Bọ cánh cam
  16205  Tử trùng DDos
 
-163-Ryoma
+Ryoma (163)
  16300  Mặc định
  16301  Thợ săn tiền thưởng
  16302  Đại tướng nguyệt tộc
@@ -628,7 +626,7 @@
  16310  Ailing Samurai
  16311  Maple Frost
 
-166-Arthur
+Arthur (166)
  16600  Mặc định
  16601  Hoàng kim cốt
  16602  Lãnh chúa xương
@@ -642,7 +640,7 @@
  16610  Hoàng tử Okka
  16611  Biệt đội băng lam
 
-167-Ngộ Không
+Ngộ Không (167)
  16700  Mặc định
  16701  Đạo tặc
  16702  Hỏa nhãn kim tinh
@@ -657,7 +655,7 @@
  16711  Thần Giáp Xích Diễm
  16712  Tề Thiên Võ Thánh
 
-168-Lumburr
+Lumburr (168)
  16800  Mặc định
  16801  Dung nham
  16802  Dung nham
@@ -666,7 +664,7 @@
  16805  Vệ binh hỏa diệm
  16806  Golem thảo nguyên
 
-169-Slimz
+Slimz (169)
  16900  Mặc định
  16901  Thỏ thợ mỏ
  16902  Chú thỏ ngọc
@@ -678,14 +676,14 @@
  16909  "Siêu Cấp Tối Thượng"
  16910  Linh Hoa thần nữ
 
-170-Moren
+Moren (170)
  17000  Mặc định
  17001  Anh thợ điện
  17002  Lính cứu hỏa
  17003  Binh nhì
  17005  Thợ cắt cáp
 
-171-Cresht
+Cresht (171)
  17100  Mặc định
  17101  Thợ sửa cáp
  17102  Cá cắn cáp
@@ -694,7 +692,7 @@
  17106  Bách tướng Lão tam
  17107  Caesar bão tố
 
-173-Fennik
+Fennik (173)
  17300  Mặc định
  17301  Nhà thám hiểm
  17302  Đội đặc nhiệm
@@ -707,7 +705,7 @@
  17309  Phong tranh thám xuân
  17310  Rối Gỗ Tinh Quái
 
-174-Stuart
+Stuart (174)
  17400  Mặc định
  17401  Trò đùa tử vong
  17402  Vua hề
@@ -717,7 +715,7 @@
  17406  Streamer bí ẩn
  17407  Dạ Xoa thiếu chủ
 
-175-Grakk
+Grakk (175)
  17500  Mặc định
  17501  Thuyền trưởng râu đỏ
  17502  Khô lâu đại tướng
@@ -733,7 +731,7 @@
  17517  Thần ẩm thực
  17518  Thủ vệ Dạ Ưng
 
-177-Lindis
+Lindis (177)
  17700  Mặc định
  17701  Thám tử tư
  17702  Quang thánh tiễn
@@ -744,7 +742,7 @@
  17708  Đặc vụ thần thám
  17709  Linh Hoa thần nữ
 
-180-Max
+Max (180)
  18000  Mặc định
  18001  Hiệp sĩ nhí
  18002  Găng tay vàng
@@ -756,10 +754,10 @@
  18008  "Không trêu bạn"
  18009  Trà chanh
 
-183-yadianna
+yadianna (183)
  18300  Mặc định
 
-184-Helen
+Helen (184)
  18400  Mặc định
  18401  Cảnh vệ rừng
  18402  Nghìn lẻ một đêm
@@ -770,7 +768,7 @@
  18407  Cổ tích Biển xanh
  18408  Bé hoa xuân
 
-186-TeeMee
+TeeMee (186)
  18600  Mặc định
  18601  Xiếc cung đình
  18602  Mặc định
@@ -781,7 +779,7 @@
  18609  Lẩu nấm
  18610  Giấc mơ ngọt ngào
 
-187-Arum
+Arum (187)
  18700  Mặc định
  18701  Thú vệ cổ mộ
  18702  Vũ khúc long hổ
@@ -795,7 +793,7 @@
  18713  Thần tượng nhạc rock
  18714  Ký Ức Đại Dương
 
-189-Krizzix
+Krizzix (189)
  18900  Mặc định
  18901  Cún siêu quậy
  18902  Đội đặc nhiệm
@@ -803,7 +801,7 @@
  18905  Trưởng lão
  18906  Cursed Corpse
 
-190-Tulen
+Tulen (190)
  19000  Mặc định
  19001  Nhà thám hiểm
  19002  Tân thần thiên hà
@@ -821,7 +819,7 @@
  19014  Giám thị sấm sét
  19015  Satoru Gojo
 
-191-Rouie
+Rouie (191)
  19100  Mặc định
  19101  Sứ giả vũ trụ
  19102  Công chúa hỏa long
@@ -833,7 +831,7 @@
  19109  Lữ hành Thời không
  19110  Mèo hầu gái
 
-192-Celica
+Celica (192)
  19200  Mặc định
  19201  Nữ cao bồi
  19202  Đếm cừu
@@ -842,7 +840,7 @@
  19205  Biệt đội băng lam
  19206  Vịt lướt bọt biển
 
-193-Amily
+Amily (193)
  19300  Sát thủ lưu vong
  19301  Đặc cảnh NYPD
  19302  Đặc công Nhện đỏ
@@ -853,10 +851,10 @@
  19307  Nữ đội trưởng
  19310  Khủng long xanh
 
-194-Wiro
+Wiro (194)
  19400  Mặc định
 
-195-Enzo
+Enzo (195)
  19500  Mặc định
  19501  Phẩm chất quý tộc
  19502  Chiến binh trăng khuyết
@@ -868,7 +866,7 @@
  19509  Sát thần Bạch Hổ
  19510  Cá heo bảnh chọe
 
-196-Elsu
+Elsu (196)
  19600  Đôi cánh tự do
  19601  Cảnh vệ thảo nguyên
  19602  Mafia
@@ -882,7 +880,7 @@
  19612  Tuyệt ảnh
  19613  DJ <Siêu Đẳng>
 
-199-Elandorr
+Elandorr (199)
  19900  Mặc định
  19901  Soái tặc
  19902  Phi vụ thế kỷ
@@ -892,18 +890,18 @@
  19906  Tuxedo Mask
  19907  Uyên Ương mộng điệp
 
-206-Charlotte
+Charlotte (206)
  20600  Mặc định
  20601  Hexsword
 
-501-TelAnnas
+TelAnnas (501)
  50100  Mặc định
  50101  Cảnh vệ rừng
  50102  Giám thị thân thiện
  50103  Chung tình tiễn
  50104  Thánh nữ mật hội
  50105  Thần sứ F.E.E-X1
- 50106  Cẩm y vệ Phi ưng
+ 50106  Cẩm y vệ: Phi ưng
  50107  Dạ hội
  50108  Thứ nguyên vệ thần
  50110  Công chúa mộng mơ
@@ -918,7 +916,7 @@
  50119  Lân Quang Thánh Điệu
  50120  Kỷ Nguyên Hổ Phách
 
-502-Astrid
+Astrid (502)
  50200  Mặc định
  50201  Bạch kiếm tiểu thư
  50202  Siêu sao bóng chày
@@ -929,7 +927,7 @@
  50207  Xứ sở diệu kỳ
  50208  Hoa anh đào
 
-503-Zuka
+Zuka (503)
  50300  Mặc định
  50301  Zuka
  50302  Đại phú ông
@@ -943,11 +941,11 @@
  50310  Ngư ông đắc lợi
  50311  Xích Hùng Chiến Giáp
 
-504-Wonder Woman
+Wonder Woman (504)
  50400  Mặc định
  50401  Thế chiến
 
-505-Baldum
+Baldum (505)
  50500  Mặc định
  50501  Chú thợ ống nước
  50502  Liệt hỏa dung nham
@@ -956,7 +954,7 @@
  50505  Đồ chơi
  50506  Sói Quàng Khăn Đỏ
 
-506-Omen
+Omen (506)
  50600  Mặc định
  50601  Sĩ quan viễn chinh
  50602  Ám tử đao
@@ -970,11 +968,11 @@
  50611  Chiến xa hắc ám
  50612  Chiến xa quang minh
 
-507-The Flash
+The Flash (507)
  50700  Mặc định
  50701  Tia chớp tương lai
 
-508-Wisp
+Wisp (508)
  50800  Mặc định
  50801  Hải tặc nhí
  50802  Thỏ siêu quậy
@@ -984,7 +982,7 @@
  50807  Cô bé bút chì
  50808  Bé hề
 
-509-Ybneth
+Ybneth (509)
  50900  Mặc định
  50901  Hạt trưởng kiểm lâm
  50902  Chiến binh lục bảo
@@ -993,7 +991,7 @@
  50905  Titan Băng giá
  50906  50906
 
-510-Liliana
+Liliana (510)
  51000  Mặc định
  51001  Hồ quý phi
  51002  Thần tượng âm nhạc
@@ -1008,7 +1006,7 @@
  51014  Thần hổ Xiêm La
  51015  Ma Pháp Tối Thượng
 
-511-Ata
+Ata (511)
  51100  Mặc định
  51101  Tân thủy thủ
  51102  Cao bồi
@@ -1018,7 +1016,7 @@
  51108  Gà mờ
  51109  Giao long
 
-512-Rourke
+Rourke (512)
  51200  Mặc định
  51201  Pháo thủ tuộc neo
  51202  Biệt đội siêu hùng
@@ -1028,7 +1026,7 @@
  51208  Bách tướng Lão đại
  51209  Thánh Vệ
 
-513-Zata
+Zata (513)
  51300  Mặc định
  51301  Tư lệnh viễn chinh
  51302  Sứ giả tinh hệ
@@ -1038,7 +1036,7 @@
  51306  Chí tôn Tà phượng
  51307  Xích Huyết Bá Tước
 
-514-Roxie
+Roxie (514)
  51400  Mặc định
  51401  Thám tử tập sự
  51402  Kèn ái tình
@@ -1049,7 +1047,7 @@
  51408  Hỏa thuật sư
  51409  "Bạch Tuyết" Kỳ Lạ
 
-515-Richter
+Richter (515)
  51500  Mặc định
  51501  Bá tước
  51502  Thống soái kháng chiến
@@ -1060,10 +1058,10 @@
  51508  Cứu hộ
  51509  Tổng Lãnh thiên thần
 
-516-Richter
+Richter (516)
  51600  Mặc định
 
-518-Quillen
+Quillen (518)
  51800  Mặc định
  51801  Trưởng ngoại khoa
  51802  Đặc công mãng xà
@@ -1078,7 +1076,7 @@
  51812  Huyết phong
  51813  Đảo thiên đường
 
-519-Annette
+Annette (519)
  51900  Mặc định
  51901  Nữ quản ga
  51902  Xứ sở thần tiên
@@ -1092,7 +1090,7 @@
  51911  Băng kỳ lâm
  51912  Doombot thơ ngây
 
-520-Veres
+Veres (520)
  52000  Mặc định
  52001  Đạo tặc
  52002  Gián điệp tinh hệ
@@ -1107,7 +1105,7 @@
  52012  Vũ điệu dân gian
  52013  Thỏ may mắn
 
-521-Florentino
+Florentino (521)
  52100  Mặc định
  52101  Vũ kiếm sư
  52102  Giám sát tinh Hệ
@@ -1122,7 +1120,7 @@
  52112  S - Quang vinh
  52113  Kỷ Nguyên Hổ Phách
 
-522-Errol
+Errol (522)
  52200  Mặc định
  52201  Vượt ngục
  52202  Diệt nguyệt tiên phong
@@ -1133,7 +1131,7 @@
  52208  Sát thủ Mafia
  52209  Dị nhân tinh hệ
 
-523-DArcy
+DArcy (523)
  52300  Mặc định
  52301  Nam tước
  52302  Đô đốc tinh Hệ
@@ -1142,7 +1140,7 @@
  52305  Chân nhân
  52306  Tông đồ Chân lý
 
-524-Capheny
+Capheny (524)
  52400  Mặc định
  52401  Hầu gái
  52402  Thần tượng âm nhạc
@@ -1159,7 +1157,7 @@
  52414  Càn Nguyên Điện Chủ
  52415  Bugcag Assemble
 
-525-Zip
+Zip (525)
  52500  Mặc định
  52501  Gà siêu quậy
  52502  Tiểu đệ hổ báo
@@ -1169,7 +1167,7 @@
  52506  Ông trùm Giáng sinh
  52507  Duyên tơ hồng
 
-526-Ishar
+Ishar (526)
  52600  Mặc định
  52601  Giấc mơ ngọt ngào
  52602  Tiểu thư kẹo ngọt
@@ -1181,7 +1179,7 @@
  52608  Rồng bé bự
  52609  Quận chúa sông Nile
 
-527-Sephera
+Sephera (527)
  52700  Mặc định
  52701  Quý tiểu thư
  52702  Chiêm tinh gia
@@ -1194,7 +1192,7 @@
  52709  Bách nhạn Ngân linh
  52710  Nova Stardust
 
-528-Qi
+Qi (528)
  52800  Mặc định
  52801  Tiểu long
  52802  Đặc vụ cáo tuyết
@@ -1204,7 +1202,7 @@
  52806  Búp bê Daruma
  52808  Thần phong Hiệp nữ
 
-529-Volkath
+Volkath (529)
  52900  Mặc định
  52901  Dạ huyết tộc
  52902  Ma kỵ tử sĩ
@@ -1214,7 +1212,7 @@
  52906  Hắc kỵ thời không
  52907  S - Quang vinh
 
-530-Dirak
+Dirak (530)
  53000  Mặc định
  53001  Cảnh vệ bầu trời
  53002  Pháp sư trăng khuyết
@@ -1223,7 +1221,7 @@
  53007  Đường chủ yêu giới
  53008  Snack giòn tan
 
-531-Keera
+Keera (531)
  53100  Mặc định
  53101  Y tá lạ
  53102  Học viện Carano
@@ -1236,7 +1234,7 @@
  53111  Môn đồ Xảo quyệt
  53112  FMVP
 
-532-Thorne
+Thorne (532)
  53200  Mặc định
  53201  Cận vệ hoàng gia
  53202  Giả kim thuật sư
@@ -1244,7 +1242,7 @@
  53204  Tiệc bãi biển
  53205  Ước nguyện Giáng sinh
 
-533-Laville
+Laville (533)
  53300  Mặc định
  53301  Tay đua đường phố
  53302  Tay súng diệt thần
@@ -1257,7 +1255,7 @@
  53309  Vệ binh Giáng sinh
  53310  Thám tử học đường
 
-534-Dextra
+Dextra (534)
  53400  Mặc định
  53401  Chiến binh quyến rũ
  53402  Quận chúa Tuyết
@@ -1266,7 +1264,7 @@
  53406  Lữ khách cao nguyên
  53407  Đảo thiên đường
 
-535-Sinestrea
+Sinestrea (535)
  53500  Mặc định
  53501  Giấc mơ trưa
  53502  Tiểu thư Băng giá
@@ -1279,7 +1277,7 @@
  53511  S - Quang vinh
  53512  Nữ quỷ say ngủ
 
-536-Aoi
+Aoi (536)
  53600  Mặc định
  53601  Sát thủ đô thị
  53602  Hoàng kim công chúa
@@ -1289,7 +1287,7 @@
  53608  Sát thủ Dạ Ưng
  53609  Quán Quân
 
-537-Allain
+Allain (537)
  53700  Mặc định
  53701  Hắc kiếm sĩ Kirito
  53702  Kirito
@@ -1300,7 +1298,7 @@
  53707  Tình yêu nổi loạn
  53708  Lân sư Vũ thần
 
-538-Iggy
+Iggy (538)
  53800  Mặc định
  53801  Tiểu hoàng đế
  53802  Thần Miêu thiếu chủ
@@ -1308,7 +1306,7 @@
  53804  Yêu nhân học viện
  53805  Tiếng thét Hỗn mang
 
-539-Lorion
+Lorion (539)
  53900  Mặc định
  53901  Chiến giáp hắc ám
  53902  Hỏa vân tà thần
@@ -1316,7 +1314,7 @@
  53904  Quân vương ánh sáng
  53905  Giáo chủ tinh hệ
 
-540-Bright
+Bright (540)
  54000  Mặc định
  54001  Soái ca thánh điện
  54002  Toshiro Hitsugaya
@@ -1326,14 +1324,14 @@
  54006  Kỳ Lân soái
  54007  Vua về nhì
 
-541-Bonnie
+Bonnie (541)
  54100  Mặc định
  54101  Thỏ ma quái
  54102  Cô bé sợ ma
  54103  Hoa hướng dương
  54104  S - Quang vinh
 
-542-Tachi
+Tachi (542)
  54200  Mặc định
  54201  Lãng khách
  54202  Đao khách vô tình
@@ -1342,7 +1340,7 @@
  54205  Thần phong Hộ vệ
  54206  Hỗn mang đao
 
-543-Aya
+Aya (543)
  54300  Mặc định
  54301  Hoạt náo viên
  54302  Điệp viên ký ức
@@ -1351,7 +1349,7 @@
  54307  Công chúa Cầu Vồng
  54308  Hỏa Hồ Tiên Ngư
 
-544-Yan
+Yan (544)
  54400  Mặc định
  54401  Nhà chế tác
  54402  Tanjiro Kamado
@@ -1359,14 +1357,14 @@
  54404  Giấc mơ sao
  54405  Bích Hạc Phiên Vân
 
-545-Yue
+Yue (545)
  54500  Mặc định
  54501  Tiểu công chúa
  54503  Chiêm tinh gia
  54504  Vũ phiến hỏa diệm
  54505  Nữ hoàng Băng giá
 
-546-Teeri
+Teeri (546)
  54600  Mặc định
  54601  Tiểu kỳ lân
  54602  Minh tinh ảo thuật
@@ -1375,7 +1373,7 @@
  54605  Ốc quế ngọt ngào
  54606  Lễ hội té nước
 
-548-Bijan
+Bijan (548)
  54800  Mặc định
  54801  Chiến binh sa mạc
  54802  Hoàng Kim cơ giáp
@@ -1383,43 +1381,236 @@
  54804  Kình thiên Long Kỵ
  54805  Lữ Hành Thời Không
 
-563-Heino
+Heino (563)
  56300  Mặc định
  56301  56301
 
-566-Ying
+Ying (566)
  56600  Mặc định
 
-567-Erin
+Erin (567)
  56700  Mặc định
  56701  Mộc tinh linh
  56702  Cực địa tinh linh
  56703  Tình yêu cổ tích
  56704  Huyễn Ảnh Mị Điệp
 
-568-Ming
+Ming (568)
  56800  Mặc định
  56801  Thầy tướng
 
-570-Joker
+Joker (570)
  57000  Mặc định
  57001  Trò đùa tử vong
  57002  Vua hề
 
-596-Goverra
+Goverra (596)
  59600  Mặc định
 
-597-Biron
+Biron (597)
  59700  Mặc định
  59701  Võ sĩ Giác đấu
  59702  Yuji Itadori
 
-598-Bolt Baron
+Bolt Baron (598)
  59800  Mặc định
  59801  Lôi vệ
  59802  Thiên Phủ - Tư Mệnh
 
-599-Billow
+Billow (599)
  59900  Mặc định
  59901  Thiên Tướng - Độ Ách
 
+Veera (600)
+ 60000  Mặc định
+
+Veera (603)
+ 60300  Mặc định
+
+Thane (605)
+ 60500  Mặc định
+
+Ilumia (608)
+ 60800  Mặc định
+
+Yorn (609)
+ 60900  Mặc định
+
+Thane (610)
+ 61000  Mặc định
+
+Omega (611)
+ 61100  Mặc định
+
+Ilumia (613)
+ 61300  Mặc định
+
+Điêu Thuyền (614)
+ 61400  Mặc định
+
+Omega (616)
+ 61600  Mặc định
+
+Ilumia (617)
+ 61700  Mặc định
+
+Ilumia (618)
+ 61800  Mặc định
+
+Thane (619)
+ 61900  Mặc định
+
+Maloch (620)
+ 62000  Mặc định
+
+Điêu Thuyền (621)
+ 62100  Mặc định
+
+Mina (622)
+ 62200  Mặc định
+
+Maloch (623)
+ 62300  Mặc định
+
+Nakroth (624)
+ 62400  Mặc định
+
+Zephys (625)
+ 62500  Mặc định
+
+Veera (626)
+ 62600  Mặc định
+
+Veera (627)
+ 62700  Mặc định
+
+Veera (628)
+ 62800  Mặc định
+
+Krixi (629)
+ 62900  Mặc định
+
+Triệu Vân (630)
+ 63000  Mặc định
+
+Maloch (631)
+ 63100  Mặc định
+
+Raz (632)
+ 63200  Mặc định
+
+Krixi (633)
+ 63300  Mặc định
+
+Airi (634)
+ 63400  Mặc định
+
+Murad (635)
+ 63500  Mặc định
+
+Hayate (636)
+ 63600  Mặc định
+
+Cọc gỗ Toro (637)
+ 63700  Kinh điển
+
+Batman (638)
+ 63800  Mặc định
+
+Zephys (639)
+ 63900  Mặc định
+
+Batman (640)
+ 64000  Mặc định
+
+Airi (641)
+ 64100  Mặc định
+
+Violet (647)
+ 64700  Mặc định
+
+Arthur (648)
+ 64800  Mặc định
+
+TelAnnas (649)
+ 64900  Mặc định
+
+Valhein (650)
+ 65000  Mặc định
+
+Violet (651)
+ 65100  Mặc định
+
+Astrid (652)
+ 65200  Mặc định
+
+Krixi (653)
+ 65300  Mặc định
+
+Butterfly (654)
+ 65400  Mặc định
+
+Grakk (655)
+ 65500  Mặc định
+
+Laville (64)
+ 64  Mặc định
+
+Natalya (164)
+ 164  Mặc định
+
+Maloch (264)
+ 264  Mặc định
+
+Zephys (364)
+ 364  Mặc định
+
+Alice (464)
+ 464  Mặc định
+
+Thane (179)
+ 17964  Mặc định
+
+Tiểu Cara (343)
+ 34364  Tiểu Cara
+ 34365  Thỏ - Tiểu nữ quái
+ 34366  Thỏ - Nữ quái xì teen
+ 34367  Thỏ - Nữ quái Công nghệ
+ 34368  Thỏ - Thần tượng học đường I
+ 34369  Thỏ - Thần tượng học đường II
+ 34370  Thỏ - Thần tượng học đường III
+ 34371  Thỏ - Sao đỏ học đường I
+ 34372  Thỏ - Sao đỏ học đường II
+ 34373  Thỏ - Sao đỏ học đường III
+ 34374  Thỏ - Phù thủy nhỏ I
+ 34375  Thỏ - Phù thủy nhỏ II
+ 34376  Thỏ - Phù thủy nhỏ III
+ 34377  Thỏ - Siêu cấp sát thủ I
+ 34378  Thỏ - Siêu cấp sát thủ II
+ 34379  Thỏ - Siêu cấp sát thủ III
+ 34380  Thỏ - Quỷ kiếm I
+ 34381  Thỏ - Quỷ kiếm II
+ 34382  Thỏ - Quỷ kiếm III
+ 34383  Cún- Đại tướng nguyệt tộc I
+ 34384  Cún- Đại tướng nguyệt tộc II
+ 34385  Cún- Đại tướng nguyệt tộc III
+ 34386  Cún- Gián điệp tinh hệ I
+ 34387  Cún- Gián điệp tinh hệ II
+ 34388  Cún- Gián điệp tinh hệ III
+ 34389  Cún- Siêu sao bóng chày I
+ 34390  Cún- Siêu sao bóng chày II
+ 34391  Cún- Siêu sao bóng chày III
+ 34392  Cún- Tiệc bãi biển I
+ 34393  Cún- Tiệc bãi biển II
+ 34394  Cún- Tiệc bãi biển III
+ 34395  Cún - Quyền Vương I
+ 34396  Cún - Quyền Vương II
+ 34397  Cún - Quyền Vương III
+ 34398  Cún - Thanh gươm chính nghĩa I
+ 34399  Cún - Thanh gươm chính nghĩa II
+
+Mặc định (344)
+ 34400  Cún - Thanh gươm chính nghĩa III
+ 34401  Thỏ Hội ám hoàng I
+ 34402  Thỏ Hội ám hoàng II
+ 34403  Thỏ Hội ám hoàng III
